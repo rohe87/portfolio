@@ -1,0 +1,15 @@
+.bodyFondo {
+  background-color: black; }
+
+.navbar {
+  background-color: #4a4a4a; }
+
+.imgRedonda {
+  width: 200px;
+  height: 200px;
+  border-radius: 150px;
+  border: 10px solid #52d96d;
+  box-shadow: 0 0 30px #20ac4a; }
+
+.footer-bottom {
+  background-color: #4a4a4a; }
